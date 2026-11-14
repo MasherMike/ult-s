@@ -95,5 +95,5 @@ Each fighter's `romfs/fighter/<char>/config.json` is an ARCropolis config (`new-
 - Balance assumes the **default Ult S preset** (all config values 0); we evaluate and adjust the mod's own balance.
 - Breakdown format per character: **frame data → design note → suggested change**.
 - Direction comes from discovery, not a pre-made list.
-- Finished breakdowns are saved in `balance/<fighter>.md` (done: mario).
+- Finished breakdowns are saved in `balance/<fighter>.md` (done: mario, miigunner, miiswordsman, miifighter).
 - Vanilla scripts reference: `https://raw.githubusercontent.com/WuBoytH/SSBU-Dumped-Scripts/main/smashline/<fighter>/<fighter>/<Motion>.txt`.
